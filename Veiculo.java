@@ -29,7 +29,7 @@ public class Veiculo {
     public void setAno(int ano) {
      this.ano = ano;
     }
-     public String getAno(){
+     public Int getAno(){
       return this.ano;
     }
  
